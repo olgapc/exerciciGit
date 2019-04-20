@@ -1,1 +1,5 @@
 prova fer commit
+he tornat a la branca master
+no em surten els canvis fets
+per branca1 al atom
+puc fer els canvis que vulgui de nou
