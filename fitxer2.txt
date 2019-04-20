@@ -1,5 +1,10 @@
 prova fer commit
+<<<<<<< HEAD
 he tornat a la branca master
 no em surten els canvis fets
 per branca1 al atom
 puc fer els canvis que vulgui de nou
+=======
+modifico text des de la segona branca
+branch1
+>>>>>>> 7ceeec520c41d4c7943939a95951188763b2f7d5
